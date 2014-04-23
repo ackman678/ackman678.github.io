@@ -1,0 +1,11 @@
+name: ackman678
+description: science and software by James Ackman
+owner: ackman678
+
+url: http://github.com/ackman678
+
+paginate: 10
+
+#markdown: rdiscount
+permalink: pretty
+pygments: true
