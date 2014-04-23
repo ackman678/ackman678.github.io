@@ -6,6 +6,6 @@ url: http://github.com/ackman678
 
 paginate: 10
 
-#markdown: rdiscount
+markdown: kramdown
 permalink: pretty
 pygments: true
