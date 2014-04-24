@@ -14,7 +14,7 @@ My time is spent generating, exploring, and visualizing a considerable amount of
 
 [Google scholar](http://scholar.google.com/citations?user=qtmtHEUAAAAJ&hl=en)
 
-[Crair lab](http://crair.medicine.yale.edu/people.html)
+[Research background](/previous_research.html)
 
 ## Software
 
