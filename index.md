@@ -6,7 +6,7 @@ layout: default
 
 ## About
 
-I'm a neuroscientist working to figure out how brain wires itself together. A better understanding of functional brain development is crucial for the prevention or treatment of many, if not all, neurological diseases, as well as realizing self-organization in the robotic systems of the future.
+I'm a neuroscientist working to figure out how the brain wires itself together. A better understanding of functional brain development is crucial for the prevention or treatment of many, if not all, neurological diseases, as well as realizing self-organization in the robotic systems of the future.
 
 My time is spent generating, exploring, and visualizing a considerable amount of data regarding the functional dynamics among synaptic connections in the nervous system. To help accomplish this, I practice data wrangling-- writing code in R and Matlab, with healthy doses of Python and unix shell scripts whenever I can.
 
