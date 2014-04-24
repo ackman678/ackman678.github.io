@@ -4,8 +4,13 @@ owner: ackman678
 
 url: http://github.com/ackman678
 
-paginate: 10
+#paginate: 10
 
-markdown: kramdown
-permalink: pretty
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
+
+#permalink: pretty
 pygments: true
