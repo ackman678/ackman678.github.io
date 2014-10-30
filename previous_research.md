@@ -5,7 +5,7 @@ layout: default
 
 ##University of Connecticut
 
-My initial research experience began in the laboratory of Dr. Joe
+My research career began in the laboratory of Joe
 LoTurco at the University of Connecticut where I studied somatotopic map
 development in the barrel system of the citron-kinase (citron-K) null
 mutant rat, flathead. The flathead rat has severe micrencephaly
@@ -15,8 +15,7 @@ exhibited scaled reductions in map size proportional to its reduced
 cortical volume, but displayed enhanced somatotopic plasticity in
 response to vibrissae removal [1].
 
-Continuing in Joe's lab, I began my thesis work titled “Neurogenic
-potential and microglial-neuronal fusion in postnatal cerebral cortex”
+My thesis work was titled “Neurogenic potential and microglial-neuronal fusion in postnatal cerebral cortex”
 First, I worked on a collaborative project with Ottorino Belluzzi's
 group at the University of Ferrara, Italy where we looked at the fate
 and function of newly generated neuroblasts in the postnatal olfactory
@@ -44,7 +43,7 @@ Calbindin positive interneurons and neuron specific beta-tubulin labeled
 in blue and red respectively.*
 
 Next, I embarked on a collaborative effort with other members of Joe's
-laboratory to create a rat model for a human cortical malformation
+lab to create a rat model for a human cortical malformation
 disorder, double-cortex syndrome, by knocking down expression of
 doublecortin (DCX RNAi) via in utero electroporation. My contribution
 was to perform much of the confocal microscopy and image analysis for
@@ -112,8 +111,8 @@ novel form of cell fusion between neuronal dendrites and microglia, and
 illustrated the need for additional caution when interpreting evidence
 for neurogenesis in postnatal neocortex [6,
 [7](http://www.ncbi.nlm.nih.gov/pubmed/17079670)] in stem cell studies
-of regeneration and repair. Furthermore this work suggested that a
-unique interaction exists between microglia and neuronal arborizations
+of regeneration and repair. Furthermore this work suggested that **a
+unique interaction exists between microglia and neuronal arborizations**
 during the period of development when the rate of synaptogenesis is at
 its peak. This study resulted in a highly regarded *Journal of
 Neuroscience* article that is ['Recommended' on Faculty of
@@ -132,28 +131,19 @@ From Ackman et al., 2006.*
 
 Next I pursued a short (1.5 year) postdoc fellowship at the
 Mediterranean Institute of Neurobiology (INMED/INSERM U901) in
-Marseille, France directed by Dr. Yesekiel Ben-Ari. I had previously
+Marseille, France formerly directed by Yesekiel Ben-Ari. I had previously
 interacted with several investigators from INMED when they visited Joe's
-lab to learn our in utero electroporation techniques. I became aware of
+lab to learn in utero electroporation techniques. I became aware of
 short-term fellowships available from INSERM for foreign postdocs to
-work in France and realized that Dr. Rosa Cossart, who is an expert in
-two-photon calcium imaging and trained with Dr. Rafael Yuste, was a
-principal investigator at INMED. I proposed joint projects, where I
-could learn the calcium imaging techniques and help ongoing work in
-Rosa's group and then utilize these techniques for my primary project
-with Dr. Alfonso Represa. I performed functional multineuron calcium
-imaging and patch-clamp recordings in slices of rat neocortex, and
-together with members of Rosa's group we characterized the dynamics of
+work in France where I wanted to train in multineuronal two-photon calcium imaging methods that Rosa Cossart was developing at INMED and apply these techniques to epilepsy models with Alfonso Represa's group. First, I collaborated with members of Rosa's group where we characterized the dynamics of
 spontaneous network activity in developing neocortical circuits,
 resulting in a publication in *Journal of Neuroscience*
 [[8](http://www.ncbi.nlm.nih.gov/pubmed/19036979)].
 
-My primary project in Marseille was performed with Dr. Represa, who
-focuses on the role of neuronal migration disorders in epilepsy.
-Together with members of his group, I applied multineuron calcium
+My primary project in Marseille
+consisted of studying the role of neuronal migration disorders in epilepsy with Alfonso Represa's group. I applied multineuron calcium
 imaging and patch-clamp recordings to the DCX RNAi in utero
-electroporation model for double cortex syndrome from my previous work
-in the LoTurco lab, where we analyzed the network activity in rat
+electroporation model for double cortex syndrome from previous work in the LoTurco lab, where we analyzed the network activity in rat
 neocortical slices containing GFP+ dysplasias. We found increased
 excitability in the 'normotopic' neocortical networks overlying white
 matter heterotopias, a retention of immature activity patterns in
@@ -186,33 +176,29 @@ After working at INSERM in Marseille, I pursued a second
 postdoc in the U.S. where I wanted to train more extensively with in
 vivo neurophysiological and calcium imaging approaches and examine
 activity-dependent circuit development in the visual system. At the
-time, Dr. Michael Crair had recently moved to Yale and had just
-purchased a laser and microscope for multiphoton imaging in studies of
-activity-dependent sensory map development. So I joined Mike's lab and
-my first responsibility was to setup the system with the necessary
-acquisition hardware and software for performing successful
-electrophysiological and optical recordings in live mice. I've
+time, Michael Crair had recently moved to Yale and had just
+begun setting up a laser and microscope for multiphoton imaging in studies of
+activity-dependent sensory map development. I joined Mike's lab and first worked to setup the experimental system for successful
+electrophysiological and optical recordings in live mice. I
 established a flexible system for two-photon and widefield CCD calcium
 imaging with extracellular recordings in neonatal and adult mice as well
 as programmed a considerable amount of image processing and data
 analysis software in Matlab, R, Python, and ImageJ to analyse
-spontaneous and stimulus evoked activity patterns in our datasets.
+spontaneous and stimulus evoked activity patterns in the datasets.
 
-In Mike's lab, I've established methods for examining the spontaneous
+In Mike's lab, I established methods for examining the spontaneous
 and evoked activity of large groups of neurons (100’s) at single-cell
 resolution in normal and mutant mouse lines so we can study the
-development of topographic maps in the visual system. I've developed
+development of topographic maps in the visual system. I developed
 techniques for functional calcium imaging from pre-synaptic axon
 terminals in the visual system in vivo, multineuron calcium imaging in
 the superior colliculus, simultaneous optogenetic stimulation and
 multineuron calcium imaging, as well as simultaneous population level
 imaging of the midbrain and neocortex using traditional calcium
-sensitive dyes and mice expressing genetic calcium indicators. In fact,
-by performing calcium imaging and multiunit recordings in the superior
+sensitive dyes and mice expressing genetic calcium indicators. By performing calcium imaging and multiunit recordings in the superior
 colliculus together with channelrhodopsin-2 stimulation of the retina in
-neonatal mice in vivo, I made [essential contributions to recent
-work](http://www.nature.com/neuro/journal/v15/n2/fig_tab/nn.3007_F2.html)
-from our lab published in *Nature Neuroscience* which demonstated a role
+neonatal mice in vivo, I made key [contributions to work](http://www.nature.com/neuro/journal/v15/n2/fig_tab/nn.3007_F2.html)
+from Mike's lab published in *Nature Neuroscience* which demonstated a role
 for precise temporal patterns of retinal activity in visual map
 development before the onset of vision
 [[10](http://www.ncbi.nlm.nih.gov/pubmed/22179110)].
@@ -227,25 +213,25 @@ stimuli (1 s long) occurred at the times indicated by blue shading. c,
 Raster plots for responses from all ROIs and the fraction of active ROIs
 to four consecutive optogenetic stimulations of both eyes.*
 
-My primary project in Mike's lab has involved examining the properties
+My primary project in Mike's lab involved examining the properties
 and role of spontaneous network activity in the development of the
 visual system. It's been known since the early 1990s that the isolated
 retina in vitro, can display patterns of spontaneous activity ('retinal
 waves') during development that are thought to be instrumental in the
-development and refinement of visual system connectivity. However it has
+development and refinement of visual system connectivity. However it had
 remained unknown whether retinal waves actually occur in vivo and
 whether circuits throughout the visual system exhibit similar patterns
 of activity.
 
-My research has involved the first direct optical recordings of the
+My research involved the first direct optical recordings of the
 developmental activity pattern known as 'retinal waves' in live,
 unanesthetized mice via presynaptic calcium imaging from retinal
 ganglion cell terminals using anterograde or genetically encoded calcium
-indicators. This work has been published in *Nature* as an Article (Ackman et al., Nature 2012)
+indicators. This work was published in *Nature* as an Article (Ackman et al., Nature 2012)
 [[11](http://www.nature.com/nature/journal/v490/n7419/full/nature11529.html)].
-The work not only demonstrates that [retinal waves do exist in
+The work not only demonstrated that [retinal waves do exist in
 vivo](http://www.nature.com/nature/journal/v490/n7419/extref/nature11529-s7.mov),
-but also postsynaptic calcium imaging showed that waves propagate to and
+but also through postsynaptic calcium imaging showed that waves propagate to and
 activate neurons throughout developing midbrain and visual
 cortex. Surprisingly, retinal waves have unique properties (directional,
 nucleation site preference in binocular retina, and bilateral symmetry)
