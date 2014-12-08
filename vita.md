@@ -28,6 +28,10 @@ Minor in Molecular and Cell Biology
 
 
 ##[Publications][pubmed]
+**Ackman JB**, Zeng H, Crair MC. 2014. Structured dynamics of neural activity across developing neocortex. bioRxiv doi: 10.1101/123456
+
+Burbridge TJ, Xu HP, **Ackman JB**, Ge X, Zhang Y, Ye MJ, Zhou ZJ, Xu J, Contractor A, Crair MC. Visual Circuit Development Requires Patterned Activity Mediated by Retinal Acetylcholine Receptors. *Neuron*. 2014 Nov 20;84(5):1049-1064. doi: 10.1016/j.neuron.2014.10.051.
+
 **Ackman JB**, Crair MC. Role of emergent neural activity in visual map development. *Curr Opin Neurobiol.* 2014 Feb;24C:166-175.
 
 **Ackman JB**, Burbridge TJ, Crair MC. Retinal waves coordinate patterned activity throughout the developing visual system. *Nature* 2012 Oct 11;490, 219–225. 
@@ -201,6 +205,5 @@ Neuroscience Fellow, University of Connecticut, 2004 – 2005
 
 ##Professional affiliations
 Society for Neuroscience  
-American Association for the Advancement of Science  
 
 [pubmed]: http://www.ncbi.nlm.nih.gov/pubmed/?term=(ackman+jb%5BAuthor%5D+OR+ackman+j%5BAuthor%5D)+AND+(yale%5BAffiliation%5D+OR+marseille%5BAffiliation%5D+OR+ferrara%5BAffiliation%5D+OR+connecticut%5BAffiliation%5D) "Pubmed – Ackman"
