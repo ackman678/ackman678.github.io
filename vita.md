@@ -5,14 +5,16 @@ layout: vita
 
 
 #James B. Ackman 
-Department of Neurobiology  
-333 Cedar St, SHM B301  
-New Haven, CT 06510  
-phone: 860.888.2810  
-james.ackman@yale.edu 
+MCD Biology  
+1156 High Street  
+Santa Cruz, CA 95064  
+phone: 831.502.0949  
+jackman@ucsc.edu  
 
 ##Education and Research Experience
-Associate Research Scientist, Yale University School of Medicine, New Haven, CT, Sep, 2012 – present
+Assistant Professor, University of California Santa Cruz, Santa Cruz, CA, Feb, 2015 – present
+
+Associate Research Scientist, Yale University School of Medicine, New Haven, CT, Sep, 2012 – Jan, 2015
 
 Postdoctoral Fellow, Yale University School of Medicine, New Haven, CT, May, 2008 – Aug, 2012  
 Advisor: Michael C. Crair
@@ -61,6 +63,8 @@ Bai J, Ramos RL\*, **Ackman JB**\*, Thomas AM, Lee RV, LoTurco JJ. RNAi reveals 
 Belluzzi O, Benedusi M, **Ackman J**, LoTurco JJ. Electrophysiological differentiation of new neurons in the olfactory bulb. *J Neurosci.* 2003 Nov 12; 23(32):10411-8.
 
 ##Invited Talks
+Yale University, 'Club Neurobiology', New Haven, CT. A Small World After All:  Mesoscale Functional Organization Across Developing Neocortex, Dec 2, 2014
+
 University of California Santa Cruz, Santa Cruz, CA. Visualizing structured activity throughout the developing brain, Feb 10, 2014
 
 Duke University, Durham, NC. Visualizing structured activity throughout the developing brain, Jan 30, 2014
@@ -103,9 +107,13 @@ Neuroscience Fellowship Talks, Storrs, CT. Neuronal-glial fusion in postnatal ne
 
 
 ##Abstracts 
+**Ackman JB**, Zeng H, Crair MC. Functional mapping of developing neocortical networks. *Soc Neurosci Abstr*, 2014
+
+Rash BG, **Ackman JB**, Rakic P. A growth factor-dependent Ca2+ signaling network during stem cell proliferation and neuronal migration in the developing neocortex. *Soc Neurosci Abstr*, 2014
+
 **Ackman JB**, Crair MC. Structured population activity across developing isocortex. SfN Satellite Meeting: *The Networked Brain*, Nov 2013
 
-Rash BG, **Ackman JB**, Rakic, P. Neuronal migration and radial glial cell proliferation are regulated by calcium transient activity propagated through radial fibers during corticogenesis. *Soc Neurosci Abstr*, 2013
+Rash BG, **Ackman JB**, Rakic P. Neuronal migration and radial glial cell proliferation are regulated by calcium transient activity propagated through radial fibers during corticogenesis. *Soc Neurosci Abstr*, 2013
 
 **Ackman JB**, Burbridge TJ, Crair MC. Spontaneous retinal waves propagate throughout the developing visual system in vivo. *Soc Neurosci Abstr*, Oct 2012
 
@@ -153,8 +161,8 @@ Kelly ME, Pathak H, **Ackman J**, LoTurco J, Lowenstein DH, Coulter DA. Morpholo
 
 **Ackman JB**, LoTurco JJ. Barrel formation and deformation in the neocortex of the flathead mutant. *Soc Neurosci Abstr*, 2000
 
-
-##Teaching experience
+<!--- 
+##Teaching
 Vision core imaging facility in Department of Neurobiology, Yale University. Trained users in principles and practice of using laser-scanning two-photon microscopy, 2008 – present 
 
 Mentorship of Yale undergraduate student in neuroscience research, Yale University, Summer 2012 
@@ -170,7 +178,8 @@ Biology of the Brain, PNB 251, Teaching Assistant, University of Connecticut, Sp
 Investigations in Neurobiology Laboratory, PNB 263W, Teaching Assistant, University of Connecticut, Fall 2000, Fall 2001
 
 Human Anatomy and Physiology Laboratory, PNB 265, Teaching Assistant, University of Connecticut, Spring 2000 
- 
+
+
 ##Technical experience
 |||
 |---|---|
@@ -181,6 +190,7 @@ Human Anatomy and Physiology Laboratory, PNB 265, Teaching Assistant, University
 | Culture | Mammalian cell culture, neurosphere/neural stem cell assay, primary cell dissociation and culture (neuronal and mixed glial), retrovirus synthesis |
 | Molecular Biology | PCR, gene cloning, plasmid and genomic DNA prep, transfection, genotyping, Western blot, lentiviral-shRNA vector prep |
 | Programming | R, MATLAB, Python, UNIX, html, applescript, sql |
+--->
 
 <!---
 ##Professional training and Service activities
