@@ -11,10 +11,10 @@ Santa Cruz, CA 95064
 phone: 831.502.0949  
 jackman@ucsc.edu  
 
-##Education and Research Experience
-Assistant Professor, University of California Santa Cruz, Santa Cruz, CA, Feb, 2015 – present
+##Education and Positions
+Assistant Professor, University of California Santa Cruz, Santa Cruz, CA, Jan, 2015 – present
 
-Associate Research Scientist, Yale University School of Medicine, New Haven, CT, Sep, 2012 – Jan, 2015
+Associate Research Scientist, Yale University School of Medicine, New Haven, CT, Sep, 2012 – Dec, 2014
 
 Postdoctoral Fellow, Yale University School of Medicine, New Haven, CT, May, 2008 – Aug, 2012  
 Advisor: Michael C. Crair
@@ -63,6 +63,8 @@ Bai J, Ramos RL\*, **Ackman JB**\*, Thomas AM, Lee RV, LoTurco JJ. RNAi reveals 
 Belluzzi O, Benedusi M, **Ackman J**, LoTurco JJ. Electrophysiological differentiation of new neurons in the olfactory bulb. *J Neurosci.* 2003 Nov 12; 23(32):10411-8.
 
 ##Invited Talks
+UC Bioengineering Symposium, 'Technology and the Nervous System', Santa Cruz, CA. Mesoscale transcranial imaging of brain waves across the cerebral hemispheres, Jun 24, 2015
+
 Yale University, 'Club Neurobiology', New Haven, CT. A Small World After All:  Mesoscale Functional Organization Across Developing Neocortex, Dec 2, 2014
 
 University of California Santa Cruz, Santa Cruz, CA. Visualizing structured activity throughout the developing brain, Feb 10, 2014
