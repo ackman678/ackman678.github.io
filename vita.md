@@ -109,6 +109,10 @@ Neuroscience Fellowship Talks, Storrs, CT. Neuronal-glial fusion in postnatal ne
 
 
 ##Abstracts 
+Gribizis A, **Ackman JB**, Crair MC. Glutamatergic (stage III) retinal waves and their role in visual development in vvivo. *Soc Neurosci Abstr*, 2015
+
+Rash BG, **Ackman JB**, Rakic P. Non-synaptic communication during early cortical column formation revealed by genetically encoded Ca2+ indicators. *Soc Neurosci Abstr*, 2015
+
 **Ackman JB**, Zeng H, Crair MC. Functional mapping of developing neocortical networks. *Soc Neurosci Abstr*, 2014
 
 Rash BG, **Ackman JB**, Rakic P. A growth factor-dependent Ca2+ signaling network during stem cell proliferation and neuronal migration in the developing neocortex. *Soc Neurosci Abstr*, 2014
