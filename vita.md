@@ -30,9 +30,9 @@ Minor in Molecular and Cell Biology
 
 
 ##[Publications][pubmed]
-Rash BG, **Ackman JB**, and Rakic P. 2016. Bidirectional radial Ca(2+) activity regulates neurogenesis and migration during early cortical column formation, *Sci Adv*, 2(2), e1501733
+Rash BG, **Ackman JB**, and Rakic P. Bidirectional radial Ca(2+) activity regulates neurogenesis and migration during early cortical column formation, *Sci Adv.* 2016 2(2), e1501733
 
-**Ackman JB**, Zeng H, Crair MC. 2014. Structured dynamics of neural activity across developing neocortex. bioRxiv doi: 10.1101/123456
+**Ackman JB**, Zeng H, Crair MC. Structured dynamics of neural activity across developing neocortex. bioRxiv 2014 doi: 10.1101/123456
 
 Burbridge TJ, Xu HP, **Ackman JB**, Ge X, Zhang Y, Ye MJ, Zhou ZJ, Xu J, Contractor A, Crair MC. Visual Circuit Development Requires Patterned Activity Mediated by Retinal Acetylcholine Receptors. *Neuron*. 2014 Nov 20;84(5):1049-1064. doi: 10.1016/j.neuron.2014.10.051.
 
