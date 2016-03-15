@@ -169,7 +169,7 @@ Kelly ME, Pathak H, **Ackman J**, LoTurco J, Lowenstein DH, Coulter DA. Morpholo
 
 **Ackman JB**, LoTurco JJ. Barrel formation and deformation in the neocortex of the flathead mutant. *Soc Neurosci Abstr*, 2000
 
-<!--- 
+<!-- 
 ##Teaching
 Vision core imaging facility in Department of Neurobiology, Yale University. Trained users in principles and practice of using laser-scanning two-photon microscopy, 2008 – present 
 
@@ -198,9 +198,9 @@ Human Anatomy and Physiology Laboratory, PNB 265, Teaching Assistant, University
 | Culture | Mammalian cell culture, neurosphere/neural stem cell assay, primary cell dissociation and culture (neuronal and mixed glial), retrovirus synthesis |
 | Molecular Biology | PCR, gene cloning, plasmid and genomic DNA prep, transfection, genotyping, Western blot, lentiviral-shRNA vector prep |
 | Programming | R, MATLAB, Python, UNIX, html, applescript, sql |
---->
+-->
 
-<!---
+<!--
 ##Professional training and Service activities
 Introduction to Data science course, Coursera, University of Washington, May - Jul 2013
 Reviewer Frontiers in Integrative Neuroscience, Dec 2012
@@ -212,14 +212,16 @@ Coordinator, postdoc neuroscience network seminar series, 2008-2010
 Guest speaker, West Hartford exchange club, stem cells, 2006
 Guest speaker, Neurobiology building dedication ceremony, 2005
 [dissertation](http://digitalcommons.uconn.edu/dissertations/AAI3236117)
---->
+-->
 
+<!--
 ##Honors, Awards, and Fellowships
 SfN Travel Award to Japan Neuroscience Society Meeting in Nagoya, Japan, Sep 2012  
 NIH National Research Service Award T32, 2008 – 2010  
 INSERM Postdoctoral Fellowship for Foreign Researchers, Oct 2006 – Sep 2007  
 Doctoral Dissertation Fellowship, University of Connecticut, 2006
 Neuroscience Fellow, University of Connecticut, 2004 – 2005  
+-->
 
 ##Professional affiliations
 Society for Neuroscience  
