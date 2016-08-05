@@ -1,5 +1,5 @@
 ---
-title: ackman678.github.io
+title: jamesackman.com
 layout: default
 ---
 
