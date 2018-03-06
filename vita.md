@@ -1,71 +1,77 @@
 ---
-title: Ackman cv
+title: 
 layout: vita
 ---
 
 
-#James B. Ackman 
-MCD Biology  
-1156 High Street  
-Santa Cruz, CA 95064  
-phone: 831.502.0949  
+# James B. Ackman   
 jackman@ucsc.edu  
 
-##Education and Positions
-Assistant Professor, University of California Santa Cruz, Santa Cruz, CA, Jan, 2015 – present
+## Education and Positions
+Assistant Professor, University of California Santa Cruz, Santa Cruz, CA, Jan, 2015 – present  
 
-Associate Research Scientist, Yale University School of Medicine, New Haven, CT, Sep, 2012 – Dec, 2014
+Associate Research Scientist, Yale University School of Medicine, New Haven, CT, Sep, 2012 – Dec, 2014  
 
 Postdoctoral Fellow, Yale University School of Medicine, New Haven, CT, May, 2008 – Aug, 2012  
-Advisor: Michael C. Crair
+<!-- Advisor: Michael C. Crair -->
 
 Postdoctoral Fellow, Mediterranean Institute of Neurobiology, Marseille, France, Sep, 2006 – Apr, 2008  
-Advisors: Alfonso Represa, Rosa Cossart, and Yesekiel Ben-Ari
+<!-- Advisors: Alfonso Represa, Rosa Cossart, and Yesekiel Ben-Ari -->
 
 Ph.D. Physiology and Neurobiology, University of Connecticut, Storrs, CT, Jun, 2006  
-Advisor: Joseph J. LoTurco 
+<!-- Advisor: Joseph J. LoTurco  -->  
+<!-- [dissertation](http://digitalcommons.uconn.edu/dissertations/AAI3236117) -->  
 
 B.S. Physiology and Neurobiology, University of Connecticut, Storrs, CT, Dec, 1999  
 Minor in Molecular and Cell Biology
 
 
-##[Publications][pubmed]
-Rash BG, **Ackman JB**, and Rakic P. Bidirectional radial Ca(2+) activity regulates neurogenesis and migration during early cortical column formation, *Sci Adv.* 2016 2(2), e1501733
+## [Publications][pubmed]
 
-**Ackman JB**, Zeng H, Crair MC. Structured dynamics of neural activity across developing neocortex. bioRxiv 2014 doi: 10.1101/123456
+1. Malformation of the posterior cerebellar vermis is a common neuroanatomical phenotype of genetically-engineered mice on the C57BL/6 background. Cuoco JA, Esposito AW, Moriarty S, Tang Y, Seth S, Toia AR, Kampton EB, Mayr Y, Khan M, Khan M, Mullen BR, **Ackman JB**, Siddiqi F, Savinova OV, Wolfe JH, Ramos RL.
+ *The Cerebellum* In revision
 
-Burbridge TJ, Xu HP, **Ackman JB**, Ge X, Zhang Y, Ye MJ, Zhou ZJ, Xu J, Contractor A, Crair MC. Visual Circuit Development Requires Patterned Activity Mediated by Retinal Acetylcholine Receptors. *Neuron*. 2014 Nov 20;84(5):1049-1064. doi: 10.1016/j.neuron.2014.10.051.
+1. **Ackman JB**. On the structure of population activity across developing neocortex. *Neuron* In revision
 
-**Ackman JB**, Crair MC. Role of emergent neural activity in visual map development. *Curr Opin Neurobiol.* 2014 Feb;24C:166-175.
+1. Rash BG, **Ackman JB**, and Rakic P. Bidirectional radial Ca(2+) activity regulates neurogenesis and migration during early cortical column formation. *Sci Adv* (2016). 2(2):e1501733. doi:10.1126/sciadv.1501733 PMID:26933693
 
-**Ackman JB**, Burbridge TJ, Crair MC. Retinal waves coordinate patterned activity throughout the developing visual system. *Nature* 2012 Oct 11;490, 219–225. 
+1. Burbridge TJ, Xu H, **Ackman JB**, Ge X, Zhang Y, Ye M, Zhou ZJ, Xu J, Contractor A, and Crair MC. Visual circuit development requires patterned activity mediated by retinal acetylcholine receptors. *Neuron* (2014). 84(5):1049-64. doi:10.1016/j.neuron.2014.10.051 PMID:25466916
 
-Zhang J, **Ackman JB**, Xu HP, Crair MC. Visual map development depends on the temporal pattern of binocular activity in mice. *Nat Neurosci.* 2011 Nov 18;15(2):298-307. 
+1. **Ackman JB** and Crair MC. Role of emergent neural activity in visual map development. *Curr Opin Neurobiol* (2014). 24C:166-175. doi:10.1016/j.conb.2013.11.011 PMID:24492092
 
-Zhang J\*, **Ackman JB**\*, Dhande OS, Crair MC. Visualization and manipulation of neural activity in the developing vertebrate nervous system. *Front Mol Neurosci.* 2011 Nov 18;4:43. *\*Equal contribution.*
+1. **Ackman JB**, Zeng H, and Crair MC. Structured dynamics of neural activity across developing neocortex. *bioRxiv* (2014). doi:10.1101/012237
 
-**Ackman JB**, Aniksztein L, Crépel V, Becq H, Pellegrino C, Cardoso C, Ben-Ari Y, Represa A. Abnormal Network Activity in a Targeted Genetic Model of Human Double Cortex. *J Neurosci.* 2009 Jan 14;29(2):313-27.
+1. **Ackman JB**, Burbridge TJ, and Crair MC. Retinal waves coordinate patterned activity throughout the developing visual system. *Nature* (2012). 490(7419):219-25. doi:10.1038/nature11529 PMID:23060192
 
-Pignatelli A, **Ackman JB**, Vigetti D, Beltrami AP, Zucchini S, Belluzzi O. A potential reservoir of immature dopaminergic replacement neurons in the adult mammalian olfactory bulb. *Pflugers Archiv.* 2009; 457(4):899-915.
+1. Zhang J, **Ackman JB**, Xu H, and Crair MC. Visual map development depends on the temporal pattern of binocular activity in mice. *Nat Neurosci* (2011). 15(2):298-307. doi:10.1038/nn.3007 PMID:22179110
 
-Allène C, Cattani A, **Ackman JB**, Bonifazi P, Aniksztejn L, Ben-Ari Y, Cossart R. Sequential generation of two distinct synapse-driven network patterns in developing neocortex. *J Neurosci.* 2008 Nov 26;28(48):12851-63.
+1. Zhang J^1^, **Ackman JB**^1^, Dhande OS, and Crair MC. Visualization and manipulation of neural activity in the developing vertebrate nervous system. *Front Mol Neurosci* (2011). 4:43. doi:10.3389/fnmol.2011.00043 PMID:22121343 *^1^Equal contribution.*
 
-Bai J, Ramos RL, Paramasivam M, Siddiqi F, **Ackman JB**, LoTurco JJ. The role of DCX and LIS1 in migration through the lateral cortical stream of developing forebrain. *Dev Neurosci.* 2008; 30:144-56.
+1. Pignatelli A, **Ackman JB**, Vigetti D, Beltrami AP, Zucchini S, and Belluzzi O. A potential reservoir of immature dopaminergic replacement neurons in the adult mammalian olfactory bulb. *Pflugers Arch* (2009). 457(4):899-915. doi:10.1007/s00424-008-0535-0 PMID:19011893
 
-**Ackman JB**, Ramos RL, Sarkisian MR, LoTurco JJ. Citron kinase is required for postnatal neurogenesis in the hippocampus. *Dev Neurosci.* 2007; 29(1-2):113-23.
+1. **Ackman JB**^1^, Aniksztejn L^1^, Crépel V, Becq H, Pellegrino C, Cardoso C, Ben-Ari Y, and Represa A. Abnormal network activity in a targeted genetic model of human double cortex. *J Neurosci* (2009). 29(2):313-27. doi:10.1523/JNEUROSCI.4093-08.2009 PMID:19144832 *^1^Equal contribution.*
 
-**Ackman JB**, Siddiqi F, Walikonis RW, LoTurco JJ. Fusion of microglia with pyramidal neurons after retroviral infection. *J Neurosci.* 2006 Nov 1;26(44):11413-22. *'Recommended' on Faculty of 1000*
+1. Allène C, Cattani A, **Ackman JB**, Bonifazi P, Aniksztejn L, Ben-Ari Y, and Cossart R. Sequential generation of two distinct synapse-driven network patterns in developing neocortex. *J Neurosci* (2008). 28(48):12851-63. doi:10.1523/JNEUROSCI.3733-08.2008 PMID:19036979
 
-**Ackman JB**, LoTurco JJ. The potential of endogenous neuronal replacement in developing cerebral cortex following hypoxic injury. *Exp Neurol.* 2006 May;199(1):5-9.
+1. Bai J, Ramos RL, Paramasivam M, Siddiqi F, **Ackman JB**, and LoTurco JJ. The role of DCX and LIS1 in migration through the lateral cortical stream of developing forebrain. *Dev Neurosci* (2008). 30(1-3):144-56. doi:10.1159/000109859 PMID:18075262
 
-Pignatelli A, Benedusi M, **Ackman J**, Loturco JJ, Belluzzi O. Functional Properties of Adult-born Juxtaglomerular Cells in the Mammalian Olfactory Bulb. *Chem Senses.* 2005 Jan;30 Suppl 1:i119-i120.
+1. **Ackman JB**, Ramos RL, Sarkisian MR, and Loturco JJ. Citron kinase is required for postnatal neurogenesis in the hippocampus. *Dev Neurosci* (2007). 29(1-2):113-23. doi:10.1159/000096216 PMID:17148954
 
-Bai J, Ramos RL\*, **Ackman JB**\*, Thomas AM, Lee RV, LoTurco JJ. RNAi reveals doublecortin is required for radial migration in rat neocortex. *Nat Neurosci.* 2003 Dec; 6(12):1277-83. *'Recommended' on Faculty of 1000.* *\*Equal contribution.*
+1. **Ackman JB**, Siddiqi F, Walikonis RS, and LoTurco JJ. Fusion of microglia with pyramidal neurons after retroviral infection. *J Neurosci* (2006). 26(44):11413-22. doi:10.1523/JNEUROSCI.3340-06.2006 PMID:17079670 *'Recommended' on Faculty of 1000.*
 
-Belluzzi O, Benedusi M, **Ackman J**, LoTurco JJ. Electrophysiological differentiation of new neurons in the olfactory bulb. *J Neurosci.* 2003 Nov 12; 23(32):10411-8.
+1. **Ackman JB** and LoTurco JJ. The potential of endogenous neuronal replacement in developing cerebral cortex following hypoxic injury. *Exp Neurol* (2006). 199(1):5-9. doi:10.1016/j.expneurol.2006.03.007 PMID:16630614
 
-##Invited Talks
-UC Bioengineering Symposium, 'Technology and the Nervous System', Santa Cruz, CA. Mesoscale transcranial imaging of brain waves across the cerebral hemispheres, Jun 24, 2015
+1. Pignatelli A, Benedusi M, **Ackman J**, Loturco JJ, and Belluzzi O. Functional properties of adult-born juxtaglomerular cells in the mammalian olfactory bulb. *Chem Senses* (2005). 30 Suppl 1:i119-20. doi:10.1093/chemse/bjh143 PMID:15738068
+
+1. Bai J, Ramos RL^2^, **Ackman JB**^2^, Thomas AM, Lee RV, and LoTurco JJ. RNAi reveals doublecortin is required for radial migration in rat neocortex. *Nat Neurosci* (2003). 6(12):1277-83. doi:10.1038/nn1153 PMID:14625554 *^2^Equal contribution.* *'Recommended' on Faculty of 1000.*
+
+1. Belluzzi O, Benedusi M, **Ackman J**, and LoTurco JJ. Electrophysiological differentiation of new neurons in the olfactory bulb. *J Neurosci* (2003). 23(32):10411-8. PMID:14614100
+
+
+
+## Invited Talks
+
+Bioengineering Symposium, 'Technology and the Nervous System', Santa Cruz, CA. Mesoscale transcranial imaging of brain waves across the cerebral hemispheres, Jun 24, 2015
 
 Yale University, 'Club Neurobiology', New Haven, CT. A Small World After All:  Mesoscale Functional Organization Across Developing Neocortex, Dec 2, 2014
 
@@ -107,123 +113,294 @@ Yale University, New Haven, CT. Neuronal-glial interactions and spontaneous netw
 
 Institut de Neurobiologie de la Méditerranée, Marseille, France. Neuronal-glial fusion in the postnatal neocortex: implications for cortical development and regeneration, Feb 27, 2006
 
-Neuroscience Fellowship Talks, Storrs, CT. Neuronal-glial fusion in postnatal neocortex: implications for cortical development and regeneration, May 11, 2005
+<!-- Neuroscience Fellowship Talks, Storrs, CT. Neuronal-glial fusion in postnatal neocortex: implications for cortical development and regeneration, May 11, 2005 -->
 
 
-##Abstracts 
-Gribizis A, **Ackman JB**, Crair MC. Glutamatergic (stage III) retinal waves and their role in visual development in vivo. *Soc Neurosci Abstr*, 2015
+## Presentations
 
-Rash BG, **Ackman JB**, Rakic P. Non-synaptic communication during early cortical column formation revealed by genetically encoded Ca2+ indicators. *Soc Neurosci Abstr*, 2015
+1. Gribizis A, Ge X, **Ackman JB**, Lee D., Crair MC. Late stage spontaneous waves and their role in downstream visual areas in vivo. *Soc Neurosci Abstr*, 2017
 
-**Ackman JB**, Zeng H, Crair MC. Functional mapping of developing neocortical networks. *Soc Neurosci Abstr*, 2014
+1. Mullen BR, Mayo JD, Hill SL, Fong A, **Ackman JB**. A modular system for transcranial optical imaging in awake/behaving mice. *Soc Neurosci Abstr*, 2016
 
-Rash BG, **Ackman JB**, Rakic P. A growth factor-dependent Ca2+ signaling network during stem cell proliferation and neuronal migration in the developing neocortex. *Soc Neurosci Abstr*, 2014
+1. Gribizis A, **Ackman JB**, Crair MC. Glutamatergic (stage III) retinal waves and their role in visual development in vivo. *Soc Neurosci Abstr*, 2015
 
-**Ackman JB**, Crair MC. Structured population activity across developing isocortex. SfN Satellite Meeting: *The Networked Brain*, Nov 2013
+1. Rash BG, **Ackman JB**, Rakic P. Non-synaptic communication during early cortical column formation revealed by genetically encoded Ca2+ indicators. *Soc Neurosci Abstr*, 2015
 
-Rash BG, **Ackman JB**, Rakic P. Neuronal migration and radial glial cell proliferation are regulated by calcium transient activity propagated through radial fibers during corticogenesis. *Soc Neurosci Abstr*, 2013
+1. **Ackman JB**, Zeng H, Crair MC. Functional mapping of developing neocortical networks. *Soc Neurosci Abstr*, 2014
 
-**Ackman JB**, Burbridge TJ, Crair MC. Spontaneous retinal waves propagate throughout the developing visual system in vivo. *Soc Neurosci Abstr*, Oct 2012
+1. Rash BG, **Ackman JB**, Rakic P. A growth factor-dependent Ca2+ signaling network during stem cell proliferation and neuronal migration in the developing neocortex. *Soc Neurosci Abstr*, 2014
 
-Burbridge TJ, Xu HP, **Ackman JB**, Crair MC. In vivo examination of retinal waves and visual map development in β2 nicotinic acetylcholine receptor whole animal and conditional deletion knockout mice. *Soc Neurosci Abstr*, Oct 2012
+1. **Ackman JB**, Crair MC. Structured population activity across developing isocortex. SfN Satellite Meeting: *The Networked Brain*, Nov 2013
 
-**Ackman JB**, Burbridge TJ, Crair MC. Retinal waves coordinate patterned activity throughout the developing visual system in vivo. Japan Neuroscience Society, Nagoya, Japan, Sep 2012
+1. Rash BG, **Ackman JB**, Rakic P. Neuronal migration and radial glial cell proliferation are regulated by calcium transient activity propagated through radial fibers during corticogenesis. *Soc Neurosci Abstr*, 2013
 
-**Ackman JB**, Burbridge TJ, Crair MC. Retinal waves coordinate patterned activity throughout the developing visual system in vivo. CSHL, 'Neuronal Circuits', Mar 2012
+1. **Ackman JB**, Burbridge TJ, Crair MC. Spontaneous retinal waves propagate throughout the developing visual system in vivo. *Soc Neurosci Abstr*, Oct 2012
 
-**Ackman JB**, Zhang J, Crair MC. Temporal pattern prediction in the developing superior colliculus before eye opening. *Soc Neurosci Abstr*, 2010
+1. Burbridge TJ, Xu HP, **Ackman JB**, Crair MC. In vivo examination of retinal waves and visual map development in β2 nicotinic acetylcholine receptor whole animal and conditional deletion knockout mice. *Soc Neurosci Abstr*, Oct 2012
 
-Represa A, Lapray D, Becq H, Kindler J, Jorquera I, Crepel V, Aniksztejn L, **Ackman J**, Cardoso C, Luhman H. Increased cortical network excitability and epilepsy in an animal model of subcortical band heterotopia after in utero RNA knockdown of DCX. *Soc Neurosci Abstr*, 2009
+1. **Ackman JB**, Burbridge TJ, Crair MC. Retinal waves coordinate patterned activity throughout the developing visual system in vivo. Japan Neuroscience Society, Nagoya, Japan, Sep 2012
 
-Pignatelli A, **Ackman J**, Beltrami AP, Zucchini S, Gambardella C, Martins DC, Belluzzi O. Properties and maturation of adult-generated dopaminergic neurons in the mammalian olfactory bulb. *Soc Neurosci Abstr*, 2009
+1. **Ackman JB**, Burbridge TJ, Crair MC. Retinal waves coordinate patterned activity throughout the developing visual system in vivo. CSHL, 'Neuronal Circuits', Mar 2012
 
-Allene C, Cattani A, **Ackman JB**, Bonifazi P, Aniksztejn L, Ben-Ari Y, Cossart R. Synaptic and extrasynaptic basis for the generation of early network oscillations in the developing cortex. Amino Acids, 2009 Jul; 37:27-37.
+1. **Ackman JB**, Zhang J, Crair MC. Temporal pattern prediction in the developing superior colliculus before eye opening. *Soc Neurosci Abstr*, 2010
 
-Allène C, **Ackman JB**, Bonifazi P, Cattani A, Aniksztejn L, Ben-Ari Y, Cossart R. Sequential generation of two distinct synapse-driven network patterns in developing neocortex. *Soc Neurosci Abstr*, 2008
+1. Represa A, Lapray D, Becq H, Kindler J, Jorquera I, Crepel V, Aniksztejn L, **Ackman J**, Cardoso C, Luhman H. Increased cortical network excitability and epilepsy in an animal model of subcortical band heterotopia after in utero RNA knockdown of DCX. *Soc Neurosci Abstr*, 2009
 
-**Ackman JB**, Becq H, Pelligrino C, Cardoso C, Ben-Ari Y, Represa A. Development of spontaneous activity patterns in dysplastic cortical networks. *Soc Neurosci Abstr*, 2007
+1. Pignatelli A, **Ackman J**, Beltrami AP, Zucchini S, Gambardella C, Martins DC, Belluzzi O. Properties and maturation of adult-generated dopaminergic neurons in the mammalian olfactory bulb. *Soc Neurosci Abstr*, 2009
 
-**Ackman JB**, Becq H, Pelligrino C, Cardoso C, Ben-Ari Y, Represa A. Development of spontaneous activity patterns in dysplastic cortical networks. Gordon Research Conference, ‘Neural Circuits and Plasticity’, 2007
+1. Allene C, Cattani A, **Ackman JB**, Bonifazi P, Aniksztejn L, Ben-Ari Y, Cossart R. Synaptic and extrasynaptic basis for the generation of early network oscillations in the developing cortex. Amino Acids, 2009 Jul; 37:27-37.
 
-Siddiqi F, Bai J, Ramos RL, **Ackman JB**, LoTurco JJ. Doublecortin overexpression induces neuronal differentiation at the expense of astrocytes. *Soc Neurosci Abstr*, 2006
+1. Allène C, **Ackman JB**, Bonifazi P, Cattani A, Aniksztejn L, Ben-Ari Y, Cossart R. Sequential generation of two distinct synapse-driven network patterns in developing neocortex. *Soc Neurosci Abstr*, 2008
 
-**Ackman JB**, Siddiqi F, Zwang ML, Walikonis RW, LoTurco JJ. A source of mistaken neurogenesis: microglial-neuronal fusion in postnatal cerebral cortex. *Soc Neurosci Abstr*, 2005
+1. **Ackman JB**, Becq H, Pelligrino C, Cardoso C, Ben-Ari Y, Represa A. Development of spontaneous activity patterns in dysplastic cortical networks. *Soc Neurosci Abstr*, 2007
 
-**Ackman JB**, LoTurco JJ. Retroviral evidence for generation of neurons in postnatal neocortex. *Soc Neurosci Abstr*, 2004
+1. **Ackman JB**, Becq H, Pelligrino C, Cardoso C, Ben-Ari Y, Represa A. Development of spontaneous activity patterns in dysplastic cortical networks. Gordon Research Conference, ‘Neural Circuits and Plasticity’, 2007
 
-Pathak H, **Ackman J**, LoTurco J, Coulter DA. Abnormal Inhibitory Innervation of Adult Born Neurons in the Dentate Gyrus Following Status Epilepticus. *Soc Neurosci Abstr*, 2004
+1. Siddiqi F, Bai J, Ramos RL, **Ackman JB**, LoTurco JJ. Doublecortin overexpression induces neuronal differentiation at the expense of astrocytes. *Soc Neurosci Abstr*, 2006
 
-Belluzzi O, Benedusi M, **Ackman J**, LoTurco JJ. Functional aspects of neurogenesis in the adult olfactory bulb. AChemS Abstr, 2003
+1. **Ackman JB**, Siddiqi F, Zwang ML, Walikonis RW, LoTurco JJ. A source of mistaken neurogenesis: microglial-neuronal fusion in postnatal cerebral cortex. *Soc Neurosci Abstr*, 2005
 
-**Ackman JB**, LoTurco JJ. Postnatal generation of neocortical pyramidal neurons in the flathead mutant rat. *Soc Neurosci Abstr*, 2003
+1. **Ackman JB**, LoTurco JJ. Retroviral evidence for generation of neurons in postnatal neocortex. *Soc Neurosci Abstr*, 2004
 
-Bai J, Ramos RL, **Ackman JB**, Thomas AM, LoTurco JJ. Doublecortin is required for radial migration in neocortex. *Soc Neurosci Abstr*, 2003
+1. Pathak H, **Ackman J**, LoTurco J, Coulter DA. Abnormal Inhibitory Innervation of Adult Born Neurons in the Dentate Gyrus Following Status Epilepticus. *Soc Neurosci Abstr*, 2004
 
-Ramos R, **Ackman JB**, LoTurco JJ, Chrobak JJ. Physiology and morphology of nucleus renunions neurons in vitro: Implications for the hippocampal memory system. *Soc Neurosci Abstr*, 2003
+1. Belluzzi O, Benedusi M, **Ackman J**, LoTurco JJ. Functional aspects of neurogenesis in the adult olfactory bulb. AChemS Abstr, 2003
 
-Pathak H, Kelly ME, **Ackman J**, LoTurco J, Lowenstein DH, Coulter DA. Synaptic integration of newborn neurons in adult dentate gyrus following status epilepticus. *Soc Neurosci Abstr*, 2003
+1. **Ackman JB**, LoTurco JJ. Postnatal generation of neocortical pyramidal neurons in the flathead mutant rat. *Soc Neurosci Abstr*, 2003
 
-**Ackman JB**, Benedusi M, Belluzzi O, LoTurco JJ. Fate and function of newly generated interneurons in the adult rodent olfactory bulb. *Soc Neurosci Abstr*, 2002
+1. Bai J, Ramos RL, **Ackman JB**, Thomas AM, LoTurco JJ. Doublecortin is required for radial migration in neocortex. *Soc Neurosci Abstr*, 2003
 
-Kelly ME, Pathak H, **Ackman J**, LoTurco J, Lowenstein DH, Coulter DA. Morphological characterization of newborn dentate granule cells in epileptic and control rats using a retroviral vector expressing green fluorescent protein. American Epilepsy Society Abstr, 2002
+1. Ramos R, **Ackman JB**, LoTurco JJ, Chrobak JJ. Physiology and morphology of nucleus renunions neurons in vitro: Implications for the hippocampal memory system. *Soc Neurosci Abstr*, 2003
 
-**Ackman JB**, LoTurco JJ. Barrel formation and deformation in the neocortex of the flathead mutant. *Soc Neurosci Abstr*, 2000
+1. Pathak H, Kelly ME, **Ackman J**, LoTurco J, Lowenstein DH, Coulter DA. Synaptic integration of newborn neurons in adult dentate gyrus following status epilepticus. *Soc Neurosci Abstr*, 2003
+
+1. **Ackman JB**, Benedusi M, Belluzzi O, LoTurco JJ. Fate and function of newly generated interneurons in the adult rodent olfactory bulb. *Soc Neurosci Abstr*, 2002
+
+1. Kelly ME, Pathak H, **Ackman J**, LoTurco J, Lowenstein DH, Coulter DA. Morphological characterization of newborn dentate granule cells in epileptic and control rats using a retroviral vector expressing green fluorescent protein. American Epilepsy Society Abstr, 2002
+
+1. **Ackman JB**, LoTurco JJ. Barrel formation and deformation in the neocortex of the flathead mutant. *Soc Neurosci Abstr*, 2000
 
 <!-- 
-##Teaching
-Vision core imaging facility in Department of Neurobiology, Yale University. Trained users in principles and practice of using laser-scanning two-photon microscopy, 2008 – present 
+SARNACS abstr  
+INMED conf abstr  
+-->
 
-Mentorship of Yale undergraduate student in neuroscience research, Yale University, Summer 2012 
+## Grants and funding
+Hellman Fellowship, Role: PI, 2017 – 2018 <!-- *12500 USD direct* -->  
 
-Mentorship of French undergraduate student from Ecole Normale Supérieure in neuroscience research, Yale University, Summer 2010 
-
-Confocal microscope facility in Department of Physiology and Neurobiology, University of Connecticut. Trained users in principles and practice of using laser-scanning confocal microscopy, 2002 – 2006 
-
-UConn Mentor Connection, 'Brain Power', Mentorship of high school students in neuroscience research, Summer 2003 
-
-Biology of the Brain, PNB 251, Teaching Assistant, University of Connecticut, Spring 2002 
-
-Investigations in Neurobiology Laboratory, PNB 263W, Teaching Assistant, University of Connecticut, Fall 2000, Fall 2001
-
-Human Anatomy and Physiology Laboratory, PNB 265, Teaching Assistant, University of Connecticut, Spring 2000 
+Startup funds from University of California, Santa Cruz, Physical and Biological Sciences, Role: PI, 2015 – 2018 <!-- 2015-01-01 – 2018-12-01   -->  
 
 
-##Technical experience
+## Honors and awards
+Selected presentation, 'Structured population activity across developing isocortex', SfN Satellite Meeting: *The Networked Brain*, Nov 2013  
+SfN Travel Award to Japan Neuroscience Society Meeting in Nagoya, Japan, Sep 2012  
+NIH National Research Service Award T32, 2008 – 2010  
+INSERM Postdoctoral Fellowship for Foreign Researchers, Oct 2006 – Sep 2007  
+Doctoral Dissertation Fellowship, University of Connecticut, 2006  
+Neuroscience Fellow, University of Connecticut, 2004 – 2005  
+Cover image, Nature Neuroscience Vol. 6 No. 12, 2003  
+
+
+## Teaching
+
+Instructor, Introduction to Neuroscience/BIOL 125 (enrollment 114), UC Santa Cruz, Fall 2016  
+
+Instructor, Introduction to Neuroscience/BIOL 125 (enrollment 43), UC Santa Cruz, Winter 2016  
+
+Manager, Vision Core imaging facility in Department of Neurobiology, Yale University. Trained users in principles and practice of using laser-scanning two-photon microscopy, 2008 – 2012  
+
+<!-- Mentorship of Yale undergraduate in neuroscience research, Yale University, Summer 2012 -->  
+<!-- Mentorship of French undergraduate student from Ecole Normale Supérieure in neuroscience research, Yale University, Summer 2010 -->
+
+Manager, Confocal microscope facility in Department of Physiology and Neurobiology, University of Connecticut. Trained users in principles and practice of using laser-scanning confocal microscopy, 2002 – 2006  
+
+Mentorship, 'Brain Power', UConn Mentor Connection for high school students in neuroscience research, Storrs, CT Summer 2003  
+
+Teaching Assistant, Biology of the Brain/PNB 251, University of Connecticut, Spring 2002  
+
+Teaching Assistant, Investigations in Neurobiology Laboratory/PNB 263W, University of Connecticut, Fall 2001  
+
+Teaching Assistant, Investigations in Neurobiology Laboratory/PNB 263W, University of Connecticut, Fall 2000  
+
+Teaching Assistant, Human Anatomy and Physiology Laboratory/PNB 265, University of Connecticut, Spring 2000  
+
+
+
+## Mentoring and student advising
+
+### Doctoral students
+
+Brian Mullen, 2015 – present  
+Sydney Weiser, 2016 – present  
+Jason Mayo, 2016 – present  
+
+### Masters students
+
+Jacqueline Lamb, 2017 – present   
+
+### Undergraduate students
+
+Jessica Jones, 2017 – present, STEM program  
+Antonia Fuller, 2017 – present  
+Claire Bachmeier, 2017 – present  
+Anastasia Rejniak, 2017 – present  
+Shona Allen, 2017 *junior specialist at UCSF*  <!-- Spring -->  
+Sophia Jochnowitz, 2017 – present  
+Sarah Hill, 2016 – 2017 *masters program at Univ British Columbia*  
+Robert Stover, 2016 – 2017 *lab tech at Two Pore Guys*  
+Jacqueline Lamb, 2016 – 2017 *masters program at UC Santa Cruz*  
+Abraham Rodriguez, 2016 – 2017, STEM program  
+Sara Stith, 2016  <!-- Summer -->  
+Luis Aguilar, 2016  <!-- Summer -->  
+Condy Kan, 2016 *research assistant at UCLA*  <!-- Summer -->  
+Tyler Berkness, 2015 – present  
+Ashmitha Rajendran, 2015 – present  <!-- biomedical engineering -->  
+Dolly Kapoor, 2015 – 2016  
+Sumanth Gollapudi, 2015 – 2016 *graduate school*  <!-- biomedical engineering -->  
+Lana Frankle, 2015 – 2016 *graduate school at Kent State*  
+Chad Santo Tomas, 2015 – 2016, STEM program *research assistant at UC Santa Cruz*  
+Anthony Fong, 2015 – 2016 *research assistant at UCSF*  <!-- biomedical engineering -->  
+Chelsea Messinger, 2013 – 2013 *MD/PhD program at Harvard Univ*  
+
+### Graduate thesis committees
+Anthony Gilmore, 2016 – present  
+James Perna, 2016 – present  
+Michelle Tjia, 2015 – present  
+
+### Graduate candidacy examinations
+Kendy Hoang, 2017  
+David Tastad, 2017  
+James Perna, 2016  
+Michelle Tjia, 2015  
+
+
+<!-- 
+### Undergraduate student advisory/research meetings 
+As of 2017-06-05 12:49:18 45 total, 30 – 60 min per meeting. 15 hrs/1920 work-hrs-year^-1, 1%  
+12 in 2015 (6 entered in calendar)  
+12 in 2016  
+21 in 2017  
+
+ -->
+
+<!--
+## Technical experience
 |||
 |---|---|
-| Microscopy | Confocal microscopy and two-photon microscopy. Managed Leica TCS-SP2 confocal microscope facility in Dept of Physiology and Neurobiology as graduate student. Trained users and performed hardware and software repairs. Experienced with Zeiss LSM 510 and Olympus Fluoview FV1000 confocal systems as well as PerkinElmer Ultraview/Yokogawa spinning-disk confocal and LaVision Biotec and Prarie Technologies IV two-photon microscope systems. Produced cover image for Nature Neuroscience Volume 6 No 12 |
+| Microscopy | Confocal microscopy and two-photon microscopy. Managed Leica TCS-SP2 confocal microscope facility in Dept of Physiology and Neurobiology as graduate student. Trained users and performed hardware and software repairs. Experienced with Zeiss LSM 510 and Olympus Fluoview FV1000 confocal systems as well as PerkinElmer Ultraview/Yokogawa spinning-disk confocal and LaVision Biotec and Prarie Technologies IV two-photon microscope systems. |
 | Physiology | In vivo and in vitro two-photon calcium imaging, whole cell patch clamp, multiunit and local field potential recordings in vivo, optogenetic stimulation |
 | Anatomy | Intracardial perfusions, vibratome and cryostat sectioning, immunocytochemistry and immunohistochemistry |
 | Surgery | Stereotaxic surgery in neonatal and adult rodents, retrovirus injections, neural cell transplantation, osmotic mini-pump implantation, midbrain and cortical craniotomies for in vivo imaging |
 | Culture | Mammalian cell culture, neurosphere/neural stem cell assay, primary cell dissociation and culture (neuronal and mixed glial), retrovirus synthesis |
 | Molecular Biology | PCR, gene cloning, plasmid and genomic DNA prep, transfection, genotyping, Western blot, lentiviral-shRNA vector prep |
-| Programming | R, MATLAB, Python, UNIX, html, applescript, sql |
+| Programming | R, python, matlab, bash/linux shell, html, css, javascript, applescript, sql |
 -->
 
-<!--
-##Professional training and Service activities
-Introduction to Data science course, Coursera, University of Washington, May - Jul 2013
-Reviewer Frontiers in Integrative Neuroscience, Dec 2012
-Scientific leadership and management course, Aug 2012
-Neurobiology of Cortical Systems course with Michael Crair, James Mazer, David McCormick 2012
-Neuroinformatics course with Gordon Shepherd, Michael Hines, Ted Carnavale Spring 2011
-SfN short course, networks course with Olaf Sporns, 2008 
-Coordinator, postdoc neuroscience network seminar series, 2008-2010
-Guest speaker, West Hartford exchange club, stem cells, 2006
-Guest speaker, Neurobiology building dedication ceremony, 2005
-[dissertation](http://digitalcommons.uconn.edu/dissertations/AAI3236117)
--->
+<!-- 
+## Research interests
+cerebral development, activity-dependent neural circuit formation and plasticity, visual neuroscience, ontogeny of sensory-motor systems
 
-<!--
-##Honors, Awards, and Fellowships
-SfN Travel Award to Japan Neuroscience Society Meeting in Nagoya, Japan, Sep 2012  
-NIH National Research Service Award T32, 2008 – 2010  
-INSERM Postdoctoral Fellowship for Foreign Researchers, Oct 2006 – Sep 2007  
-Doctoral Dissertation Fellowship, University of Connecticut, 2006
-Neuroscience Fellow, University of Connecticut, 2004 – 2005  
--->
+## Teaching interests
+developmental neurobiology, systems neuroscience, comparative neuroananatomy, computational biology and data science
 
-##Professional affiliations
+ -->
+
+
+## Service to the field
+Reviewer, Journal of Neuroscience, Jan 2017  
+Co-Author, [pyWholeBrain](https://github.com/ackmanlab/pyWholeBrain) brain wave imaging software, 2016 – 2017  
+Reviewer, Journal of Neuroscience, Jul 2016  
+Reviewer, Journal of Neuroscience, May 2016  
+Reviewer, Frontiers in Neural Circuits, Jun 2016  
+Author, [dFoF](https://github.com/ackmanlab/dFoF-imagej) ImageJ calcium imaging software, 2012, 2014, 2016  
+Author, [wholeBrainDX](https://github.com/ackman678/wholeBrainDX) widefield functional imaging software, 2012 – 2016  
+Author, [CalciumDX](https://github.com/ackman678/CalciumDX) calcium imaging software, 2011 – 2012, 2014  
+Reviewer, Frontiers in Integrative Neuroscience, Dec 2012  
+
+
+## Service to the university
+Mentor, STEM Diversity Program, 2017 – present  
+Co-presenter, MCD Retreat talk presentation, Sep 2017  
+Co-presenter, MCD Retreat poster presentation, Sep 2017  
+Co-presenter, PBSE Retreat poster presentation, Sep 2017  
+Author, ['lambdaBuildBot'](https://github.com/ackmanlab/lambdaBuildBot) AWS Lambda app build and deploy bot, 2017  
+Author, ['woola'](https://github.com/ackmanlab/woola) markdown to html/pdf content rendering, build, and server app, 2017  
+Particpant, Neurosociety exhibit, Palo Alto, CA, Feb 2017  
+Member, Graduate admissions committee, 2016 – 2017  
+Mentor, STEM Diversity Program, 2016 – 2017  
+Author, BIOL 125/Introduction to Neuroscience instructional [**web app**](https://ackmanlab.com/local/bio125/neuroanatomy1.html), see [syllabus](https://ackmanlab.com/bio125/syllabus.html), Sep 2016 – Dec 2016  
+Co-presenter, PBSE Retreat poster presentation, Sep 2016  
+Presenter, PBSE Graduate research orientation faculty research overview, Sep 2016  
+Member, Graduate admissions committee, 2015 – 2016  
+Presenter, BME 280B Seminar, Oct 2015  
+Presenter, PBSE Graduate research orientation faculty research overview, Sep 2015  
+Presenter, PBSE Retreat Track Spotlight talk, Sep 2015  
+Author and Instructor, PBSE Graduate research orientation experiments, [Neuroinformatics](https://ackmanlab.com/2015-09-15-analysis.html)/Brain connectivity mini-course, Sep 2015  
+Mentor, STEM Diversity Program, 2015 – 2016  
+Chair, 16th Annual UC Systemwide Bioengineering Symposium, session 'Technology and the Nervous System', Santa Cruz, CA. Jun 24, 2015  
+<!-- Coordinator, Neuroscience postdoc network seminar series, New Haven, CT, 2008 – 2010   -->
+
+
+## Service to the community
+Guest speaker, Pacific Collegiate School, 'Lunch with a scientist', Santa Cruz, CA, Apr 2017  
+Volunteer, Beach Cleanup, Santa Cruz, CA 2015 – present  
+Volunteer, Coastal Community Preschool, Santa Cruz, CA 2016 – present  <!-- Contributing author, [markserv](https://github.com/ackmanlab/markserv) markdown content app, 2017   -->  
+Contributing author, Wikipedia, 2014, 2016, 2017  
+Mentor, ACCESS academic bridge program, Santa Cruz, CA Jun – Aug 2016  
+Contributing author, [BibDeskToWord](https://github.com/ackman678/bibdesktoword) bibliography integration software, 2014, 2016  <!-- Assistant coach, UC Santa Cruz Men's rugby Oct, Nov 2015, 2016 -->  
+Guest speaker, Osher Lifelong Learners, UC Santa Cruz, Santa Cruz, CA, Oct 2015  
+<!-- Guest speaker, West Hartford exchange club, Stem cells and neural regeneration, West Hartford, CT, 2006   -->
+<!-- Guest speaker, Neurobiology building dedication ceremony, Storrs, CT, 2005   -->
+
+
+## Professional training
+Introduction to Data Science, Coursera, University of Washington, May – Jul 2013  
+Scientific Leadership and Management, Yale University, Aug 2012  
+Neurobiology of Cortical Systems course with M. Crair, J. Mazer, D. McCormick, Yale University 2012  <!-- Michael Crair, James Mazer, David McCormick -->  
+Neuroinformatics course with G. Shepherd, M. Hines, T. Carnavale Yale University Spring 2011  <!-- Gordon Shepherd, Michael Hines, Ted Carnavale -->  
+SfN short course, Networks of the Brain with O. Sporns, 2008  <!-- Olaf Sporns -->  
+
+
+## Professional affiliations
 Society for Neuroscience  
 
 [pubmed]: http://www.ncbi.nlm.nih.gov/pubmed/?term=(ackman+jb%5BAuthor%5D+OR+ackman+j%5BAuthor%5D)+AND+(yale%5BAffiliation%5D+OR+marseille%5BAffiliation%5D+OR+ferrara%5BAffiliation%5D+OR+connecticut%5BAffiliation%5D) "Pubmed – Ackman"
+
+
+
+
+
+
+[^Rash:2016]: Rash BG, Ackman JB, and Rakic P. Bidirectional radial Ca(2+) activity regulates neurogenesis and migration during early cortical column formation. *Sci Adv* (2016). 2(2):e1501733. doi:10.1126/sciadv.1501733 PMID:26933693
+
+[^Burbridge:2014]: Burbridge TJ, Xu H, Ackman JB, Ge X, Zhang Y, Ye M, Zhou ZJ, Xu J, Contractor A, and Crair MC. Visual circuit development requires patterned activity mediated by retinal acetylcholine receptors. *Neuron* (2014). 84(5):1049-64. doi:10.1016/j.neuron.2014.10.051 PMID:25466916
+
+[^Ackman:2014]: Ackman JB and Crair MC. Role of emergent neural activity in visual map development. *Curr Opin Neurobiol* (2014). 24C:166-175. doi:10.1016/j.conb.2013.11.011 PMID:24492092
+
+[^Ackman:2014c]: Ackman JB, Zeng H, and Crair MC. Structured dynamics of neural activity across developing neocortex. *bioRxiv* (2014). doi:10.1101/012237
+
+[^Ackman:2012]: Ackman JB, Burbridge TJ, and Crair MC. Retinal waves coordinate patterned activity throughout the developing visual system. *Nature* (2012). 490(7419):219-25. doi:10.1038/nature11529 PMID:23060192
+
+[^Zhang:2011]: Zhang J, Ackman JB, Xu H, and Crair MC. Visual map development depends on the temporal pattern of binocular activity in mice. *Nat Neurosci* (2011). 15(2):298-307. doi:10.1038/nn.3007 PMID:22179110
+
+[^Zhang:2011a]: Zhang J, Ackman JB, Dhande OS, and Crair MC. Visualization and manipulation of neural activity in the developing vertebrate nervous system. *Front Mol Neurosci* (2011). 4:43. doi:10.3389/fnmol.2011.00043 PMID:22121343
+
+[^Pignatelli:2009]: Pignatelli A, Ackman JB, Vigetti D, Beltrami AP, Zucchini S, and Belluzzi O. A potential reservoir of immature dopaminergic replacement neurons in the adult mammalian olfactory bulb. *Pflugers Arch* (2009). 457(4):899-915. doi:10.1007/s00424-008-0535-0 PMID:19011893
+
+[^Ackman:2009]: Ackman JB, Aniksztejn L, Crépel V, Becq H, Pellegrino C, Cardoso C, Ben-Ari Y, and Represa A. Abnormal network activity in a targeted genetic model of human double cortex. *J Neurosci* (2009). 29(2):313-27. doi:10.1523/JNEUROSCI.4093-08.2009 PMID:19144832
+
+[^Allene:2008]: Allène C, Cattani A, Ackman JB, Bonifazi P, Aniksztejn L, Ben-Ari Y, and Cossart R. Sequential generation of two distinct synapse-driven network patterns in developing neocortex. *J Neurosci* (2008). 28(48):12851-63. doi:10.1523/JNEUROSCI.3733-08.2008 PMID:19036979
+
+[^Bai:2008]: Bai J, Ramos RL, Paramasivam M, Siddiqi F, Ackman JB, and LoTurco JJ. The role of DCX and LIS1 in migration through the lateral cortical stream of developing forebrain. *Dev Neurosci* (2008). 30(1-3):144-56. doi:10.1159/000109859 PMID:18075262
+
+[^Ackman:2007]: Ackman JB, Ramos RL, Sarkisian MR, and Loturco JJ. Citron kinase is required for postnatal neurogenesis in the hippocampus. *Dev Neurosci* (2007). 29(1-2):113-23. doi:10.1159/000096216 PMID:17148954
+
+[^Ackman:2006a]: Ackman JB, Siddiqi F, Walikonis RS, and LoTurco JJ. Fusion of microglia with pyramidal neurons after retroviral infection. *J Neurosci* (2006). 26(44):11413-22. doi:10.1523/JNEUROSCI.3340-06.2006 PMID:17079670
+
+[^Ackman:2006]: Ackman JB and LoTurco JJ. The potential of endogenous neuronal replacement in developing cerebral cortex following hypoxic injury. *Exp Neurol* (2006). 199(1):5-9. doi:10.1016/j.expneurol.2006.03.007 PMID:16630614
+
+[^Pignatelli:2005]: Pignatelli A, Benedusi M, Ackman J, Loturco JJ, and Belluzzi O. Functional properties of adult-born juxtaglomerular cells in the mammalian olfactory bulb. *Chem Senses* (2005). 30 Suppl 1:i119-20. doi:10.1093/chemse/bjh143 PMID:15738068
+
+[^Bai:2003]: Bai J, Ramos RL, Ackman JB, Thomas AM, Lee RV, and LoTurco JJ. RNAi reveals doublecortin is required for radial migration in rat neocortex. *Nat Neurosci* (2003). 6(12):1277-83. doi:10.1038/nn1153 PMID:14625554
+
+[^Belluzzi:2003]: Belluzzi O, Benedusi M, Ackman J, and LoTurco JJ. Electrophysiological differentiation of new neurons in the olfactory bulb. *J Neurosci* (2003). 23(32):10411-8. PMID:14614100
