@@ -28,10 +28,10 @@ Minor in Molecular and Cell Biology
 
 ## [Publications][pubmed]
 
+<!--
 1. Malformation of the posterior cerebellar vermis is a common neuroanatomical phenotype of genetically-engineered mice on the C57BL/6 background. Cuoco JA, Esposito AW, Moriarty S, Tang Y, Seth S, Toia AR, Kampton EB, Mayr Y, Khan M, Khan M, Mullen BR, **Ackman JB**, Siddiqi F, Savinova OV, Wolfe JH, Ramos RL.
  *The Cerebellum* In revision
-
-1. **Ackman JB**. On the structure of population activity across developing neocortex. *Neuron* In revision
+-->
 
 1. Rash BG, **Ackman JB**, and Rakic P. Bidirectional radial Ca(2+) activity regulates neurogenesis and migration during early cortical column formation. *Sci Adv* (2016). 2(2):e1501733. doi:10.1126/sciadv.1501733 PMID:26933693
 
