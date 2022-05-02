@@ -24,14 +24,21 @@ My research involves generating, exploring, and visualizing a considerable amoun
 
 ## Publications
 
-[Pubmed][pubmedMe]
+[Pubmed][pubmed]
 
-[CV](/vita.html)
+[Google Scholar][gscholar]
+
+[CV](/vita.md)
 
 ## Contact
 
 [Linkedin][linkMe]     
 
-[pubmedMe]: http://www.ncbi.nlm.nih.gov/pubmed/?term=(ackman+jb%5BAuthor%5D+OR+ackman+j%5BAuthor%5D)+AND+(yale%5BAffiliation%5D+OR+marseille%5BAffiliation%5D+OR+ferrara%5BAffiliation%5D+OR+connecticut%5BAffiliation%5D)
+[pubmed]: https://www.ncbi.nlm.nih.gov/pubmed/?term=(ackman+jb%5BAuthor%5D+OR+ackman+j%5BAuthor%5D)+AND+(yale%5BAffiliation%5D+OR+marseille%5BAffiliation%5D+OR+ferrara%5BAffiliation%5D+OR+connecticut%5BAffiliation%5D+OR+santa+cruz%5BAffiliation%5D)
+
+[gscholar]: https://scholar.google.com/citations?user=qtmtHEUAAAAJ&hl
+
 [linkMe]: https://www.linkedin.com/pub/james-ackman/3/152/bab
+
 [twitterMe]: https://twitter.com/JamesAckman
+
