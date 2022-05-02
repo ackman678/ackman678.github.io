@@ -26,47 +26,53 @@ B.S. Physiology and Neurobiology, University of Connecticut, Storrs, CT, Dec, 19
 Minor in Molecular and Cell Biology
 
 
-## [Publications][pubmed]
+## Publications
 
-<!--
-1. Malformation of the posterior cerebellar vermis is a common neuroanatomical phenotype of genetically-engineered mice on the C57BL/6 background. Cuoco JA, Esposito AW, Moriarty S, Tang Y, Seth S, Toia AR, Kampton EB, Mayr Y, Khan M, Khan M, Mullen BR, **Ackman JB**, Siddiqi F, Savinova OV, Wolfe JH, Ramos RL.
- *The Cerebellum* In revision
--->
+1. Mullen BR, Weiser SC, Ascencio D, **Ackman JB**. Automated classification of signal sources in mesoscale calcium imaging. bioRxiv. (2021). doi:10.1101/2021.02.23.432573
 
-1. Rash BG, **Ackman JB**, and Rakic P. Bidirectional radial Ca(2+) activity regulates neurogenesis and migration during early cortical column formation. *Sci Adv* (2016). 2(2):e1501733. doi:10.1126/sciadv.1501733 PMID:26933693
+1. Perna J, Lu J, Mullen B, Liu T, Tjia M, Weiser S, **Ackman J**, Zuo Y. Perinatal penicillin exposure affects cortical development and sensory processing. Front Mol Neurosci. (2021). 14:704219. doi:10.3389/fnmol.2021.704219 pmid:35002614
 
-1. Burbridge TJ, Xu H, **Ackman JB**, Ge X, Zhang Y, Ye M, Zhou ZJ, Xu J, Contractor A, and Crair MC. Visual circuit development requires patterned activity mediated by retinal acetylcholine receptors. *Neuron* (2014). 84(5):1049-64. doi:10.1016/j.neuron.2014.10.051 PMID:25466916
+1. Weiser SC, Mullen BR, Ascencio D, **Ackman JB**. Data-driven filtration and segmentation of mesoscale neural dynamics. bioRxiv. (2020). doi:10.1101/2020.12.30.424865
 
-1. **Ackman JB** and Crair MC. Role of emergent neural activity in visual map development. *Curr Opin Neurobiol* (2014). 24C:166-175. doi:10.1016/j.conb.2013.11.011 PMID:24492092
+1. Gribizis A, Ge X, Daigle TL, **Ackman JB**, Zeng H, Lee D, Crair MC. Visual cortex gains independence from peripheral drive before eye opening. *Neuron* (2019) Sep 14. doi:10.1016/j.neuron.2019.08.015 pmid:31561919
 
-1. **Ackman JB**, Zeng H, and Crair MC. Structured dynamics of neural activity across developing neocortex. *bioRxiv* (2014). doi:10.1101/012237
+1. Cuoco JA, Esposito AW, Moriarty S, Tang Y, Seth S, Toia AR, Kampton EB, Mayr Y, Khan M, Khan M, Mullen BR, **Ackman JB**, Siddiqi F, Savinova OV, Wolfe JH, Ramos RL. Malformation of the posterior cerebellar vermis is a common neuroanatomical phenotype of genetically-engineered mice on the C57BL/6 background. *The Cerebellum* (2018). 17(2):173-190. doi:10.1007/s12311-017-0892-3 pmid:29043563
 
-1. **Ackman JB**, Burbridge TJ, and Crair MC. Retinal waves coordinate patterned activity throughout the developing visual system. *Nature* (2012). 490(7419):219-25. doi:10.1038/nature11529 PMID:23060192
+1. Rash BG, **Ackman JB**, and Rakic P. Bidirectional radial Ca(2+) activity regulates neurogenesis and migration during early cortical column formation. *Sci Adv* (2016). 2(2):e1501733. doi:10.1126/sciadv.1501733 pmid:26933693
 
-1. Zhang J, **Ackman JB**, Xu H, and Crair MC. Visual map development depends on the temporal pattern of binocular activity in mice. *Nat Neurosci* (2011). 15(2):298-307. doi:10.1038/nn.3007 PMID:22179110
+1. Burbridge TJ, Xu H, **Ackman JB**, Ge X, Zhang Y, Ye M, Zhou ZJ, Xu J, Contractor A, and Crair MC. Visual circuit development requires patterned activity mediated by retinal acetylcholine receptors. *Neuron* (2014). 84(5):1049-64. doi:10.1016/j.neuron.2014.10.051 pmid:25466916
 
-1. Zhang J^1^, **Ackman JB**^1^, Dhande OS, and Crair MC. Visualization and manipulation of neural activity in the developing vertebrate nervous system. *Front Mol Neurosci* (2011). 4:43. doi:10.3389/fnmol.2011.00043 PMID:22121343 *^1^Equal contribution.*
+1. **Ackman JB** and Crair MC. Role of emergent neural activity in visual map development. *Curr Opin Neurobiol* (2014). 24C:166-175. doi:10.1016/j.conb.2013.11.011 pmid:24492092
 
-1. Pignatelli A, **Ackman JB**, Vigetti D, Beltrami AP, Zucchini S, and Belluzzi O. A potential reservoir of immature dopaminergic replacement neurons in the adult mammalian olfactory bulb. *Pflugers Arch* (2009). 457(4):899-915. doi:10.1007/s00424-008-0535-0 PMID:19011893
+1. **Ackman JB**, Zeng H, and Crair MC. Structured dynamics of neural activity across developing neocortex. *bioRxiv* (2014). doi:10.1101/012237 
 
-1. **Ackman JB**^1^, Aniksztejn L^1^, Crépel V, Becq H, Pellegrino C, Cardoso C, Ben-Ari Y, and Represa A. Abnormal network activity in a targeted genetic model of human double cortex. *J Neurosci* (2009). 29(2):313-27. doi:10.1523/JNEUROSCI.4093-08.2009 PMID:19144832 *^1^Equal contribution.*
+1. **Ackman JB**, Burbridge TJ, and Crair MC. Retinal waves coordinate patterned activity throughout the developing visual system. *Nature* (2012). 490(7419):219-25. doi:10.1038/nature11529 pmid:23060192
 
-1. Allène C, Cattani A, **Ackman JB**, Bonifazi P, Aniksztejn L, Ben-Ari Y, and Cossart R. Sequential generation of two distinct synapse-driven network patterns in developing neocortex. *J Neurosci* (2008). 28(48):12851-63. doi:10.1523/JNEUROSCI.3733-08.2008 PMID:19036979
+1. Zhang J, **Ackman JB**, Xu H, and Crair MC. Visual map development depends on the temporal pattern of binocular activity in mice. *Nat Neurosci* (2011). 15(2):298-307. doi:10.1038/nn.3007 pmid:22179110
 
-1. Bai J, Ramos RL, Paramasivam M, Siddiqi F, **Ackman JB**, and LoTurco JJ. The role of DCX and LIS1 in migration through the lateral cortical stream of developing forebrain. *Dev Neurosci* (2008). 30(1-3):144-56. doi:10.1159/000109859 PMID:18075262
+1. Zhang J^1^, **Ackman JB**^1^, Dhande OS, and Crair MC. Visualization and manipulation of neural activity in the developing vertebrate nervous system. *Front Mol Neurosci* (2011). 4:43. doi:10.3389/fnmol.2011.00043 pmid:22121343 *^1^Equal contribution.*
 
-1. **Ackman JB**, Ramos RL, Sarkisian MR, and Loturco JJ. Citron kinase is required for postnatal neurogenesis in the hippocampus. *Dev Neurosci* (2007). 29(1-2):113-23. doi:10.1159/000096216 PMID:17148954
+1. Pignatelli A, **Ackman JB**, Vigetti D, Beltrami AP, Zucchini S, and Belluzzi O. A potential reservoir of immature dopaminergic replacement neurons in the adult mammalian olfactory bulb. *Pflugers Arch* (2009). 457(4):899-915. doi:10.1007/s00424-008-0535-0 pmid:19011893
 
-1. **Ackman JB**, Siddiqi F, Walikonis RS, and LoTurco JJ. Fusion of microglia with pyramidal neurons after retroviral infection. *J Neurosci* (2006). 26(44):11413-22. doi:10.1523/JNEUROSCI.3340-06.2006 PMID:17079670 *'Recommended' on Faculty of 1000.*
+1. **Ackman JB**^1^, Aniksztejn L^1^, Crépel V, Becq H, Pellegrino C, Cardoso C, Ben-Ari Y, and Represa A. Abnormal network activity in a targeted genetic model of human double cortex. *J Neurosci* (2009). 29(2):313-27. doi:10.1523/JNEUROSCI.4093-08.2009 pmid:19144832 *^1^Equal contribution.*
 
-1. **Ackman JB** and LoTurco JJ. The potential of endogenous neuronal replacement in developing cerebral cortex following hypoxic injury. *Exp Neurol* (2006). 199(1):5-9. doi:10.1016/j.expneurol.2006.03.007 PMID:16630614
+1. Allène C, Cattani A, **Ackman JB**, Bonifazi P, Aniksztejn L, Ben-Ari Y, and Cossart R. Sequential generation of two distinct synapse-driven network patterns in developing neocortex. *J Neurosci* (2008). 28(48):12851-63. doi:10.1523/JNEUROSCI.3733-08.2008 pmid:19036979
 
-1. Pignatelli A, Benedusi M, **Ackman J**, Loturco JJ, and Belluzzi O. Functional properties of adult-born juxtaglomerular cells in the mammalian olfactory bulb. *Chem Senses* (2005). 30 Suppl 1:i119-20. doi:10.1093/chemse/bjh143 PMID:15738068
+1. Bai J, Ramos RL, Paramasivam M, Siddiqi F, **Ackman JB**, and LoTurco JJ. The role of DCX and LIS1 in migration through the lateral cortical stream of developing forebrain. *Dev Neurosci* (2008). 30(1-3):144-56. doi:10.1159/000109859 pmid:18075262
 
-1. Bai J, Ramos RL^2^, **Ackman JB**^2^, Thomas AM, Lee RV, and LoTurco JJ. RNAi reveals doublecortin is required for radial migration in rat neocortex. *Nat Neurosci* (2003). 6(12):1277-83. doi:10.1038/nn1153 PMID:14625554 *^2^Equal contribution.* *'Recommended' on Faculty of 1000.*
+1. **Ackman JB**, Ramos RL, Sarkisian MR, and Loturco JJ. Citron kinase is required for postnatal neurogenesis in the hippocampus. *Dev Neurosci* (2007). 29(1-2):113-23. doi:10.1159/000096216 pmid:17148954
 
-1. Belluzzi O, Benedusi M, **Ackman J**, and LoTurco JJ. Electrophysiological differentiation of new neurons in the olfactory bulb. *J Neurosci* (2003). 23(32):10411-8. PMID:14614100
+1. **Ackman JB**, Siddiqi F, Walikonis RS, and LoTurco JJ. Fusion of microglia with pyramidal neurons after retroviral infection. *J Neurosci* (2006). 26(44):11413-22. doi:10.1523/JNEUROSCI.3340-06.2006 pmid:17079670 *'Recommended' on Faculty of 1000.*
 
+1. **Ackman JB** and LoTurco JJ. The potential of endogenous neuronal replacement in developing cerebral cortex following hypoxic injury. *Exp Neurol* (2006). 199(1):5-9. doi:10.1016/j.expneurol.2006.03.007 pmid:16630614
+
+1. Pignatelli A, Benedusi M, **Ackman J**, Loturco JJ, and Belluzzi O. Functional properties of adult-born juxtaglomerular cells in the mammalian olfactory bulb. *Chem Senses* (2005). 30 Suppl 1:i119-20. doi:10.1093/chemse/bjh143 pmid:15738068
+
+1. Bai J, Ramos RL^2^, **Ackman JB**^2^, Thomas AM, Lee RV, and LoTurco JJ. RNAi reveals doublecortin is required for radial migration in rat neocortex. *Nat Neurosci* (2003). 6(12):1277-83. doi:10.1038/nn1153 pmid:14625554 *^2^Equal contribution.* *'Recommended' on Faculty of 1000.*
+
+1. Belluzzi O, Benedusi M, **Ackman J**, and LoTurco JJ. Electrophysiological differentiation of new neurons in the olfactory bulb. *J Neurosci* (2003). 23(32):10411-8. pmid:14614100
+
+[gscholar][gscholar], [pubmed][pubmed]
 
 
 ## Invited Talks
@@ -117,6 +123,8 @@ Institut de Neurobiologie de la Méditerranée, Marseille, France. Neuronal-glia
 
 
 ## Presentations
+
+1. Mullen BR, Weiser SC, Santo Tomas CP, Lamb JE, **Ackman JB**. An unbiased workflow for isolating and mapping functional dynamics across the developing neocortex. *Soc Neurosci Abstr*, 2018
 
 1. Gribizis A, Ge X, **Ackman JB**, Lee D., Crair MC. Late stage spontaneous waves and their role in downstream visual areas in vivo. *Soc Neurosci Abstr*, 2017
 
@@ -186,9 +194,18 @@ INMED conf abstr
 -->
 
 ## Grants and funding
-Hellman Fellowship, Role: PI, 2017 – 2018 <!-- *12500 USD direct* -->  
+NSF 1853210, 'Statistical approaches for complex multi-dimensional temporal data',  
+2019 - 2022, Role: Collaborator, *293,116 USD*  
+<!-- NSF 1853210, 'Statistical approaches for complex multi-dimensional temporal data', Role: Collaborator, 2019 - 2020 *18,757 USD*   -->
 
-Startup funds from University of California, Santa Cruz, Physical and Biological Sciences, Role: PI, 2015 – 2018 <!-- 2015-01-01 – 2018-12-01   -->  
+COR Faculty Research Grant, 'Mapping cerebral gene expression patterns in neonatal mouse',  
+2018 - 2019, Role: PI, *3000 USD* 
+
+Hellman Fellow, 'Functional dynamics of cerebral lateralization in the developing brain',  
+2017 – 2018, Role: PI, *12500 USD*
+
+Startup funds from University of California, Santa Cruz, Physical and Biological Sciences  
+<!-- 2015 – 2020, Role: PI, *800,000 USD* 2015-01-01 – 2018-12-01   -->  
 
 
 ## Honors and awards
@@ -202,6 +219,12 @@ Cover image, Nature Neuroscience Vol. 6 No. 12, 2003
 
 
 ## Teaching
+
+Instructor, Introduction to Neuroscience/BIOL 125 (enrollment 144), UC Santa Cruz, Fall 2019  [syllabus](https://biol125.ackmanlab.com)
+
+Instructor, Introduction to Neuroscience/BIOL 125 (enrollment 146), UC Santa Cruz, Fall 2018  
+
+Instructor, Introduction to Neuroscience/BIOL 125 (enrollment 74), UC Santa Cruz, Spring 2018  
 
 Instructor, Introduction to Neuroscience/BIOL 125 (enrollment 114), UC Santa Cruz, Fall 2016  
 
@@ -232,29 +255,35 @@ Teaching Assistant, Human Anatomy and Physiology Laboratory/PNB 265, University 
 
 Brian Mullen, 2015 – present  
 Sydney Weiser, 2016 – present  
-Jason Mayo, 2016 – present  
 
 ### Masters students
 
-Jacqueline Lamb, 2017 – present   
+Jacqueline Lamb, 2017 – 2019  
 
 ### Undergraduate students
-
-Jessica Jones, 2017 – present, STEM program  
-Antonia Fuller, 2017 – present  
+Brandon Rojas-Aguilar, 2019 - present  
+Beruk Sherif, 2019 - present  
+Jacob Lee, 2019 - present  
+Sarah Dimichele, 2019 - present  
+Mamon Alsalihy, 2018 - present <!-- computer science -->  
+Desiderio Ascensio, 2018 - present, STEM program  
+Tyler Ward, 2017 - 2019 *research assistant at UC Berkeley*  
+Jordan Lipaz, 2017 - 2019 *lab tech*  
+Jessica Jones, 2017 – 2018, STEM program  *research assistant at U Penn*  
+Antonia Fuller, 2017 – 2018  
 Claire Bachmeier, 2017 – present  
-Anastasia Rejniak, 2017 – present  
+Anastasia Rejniak, 2017 – 2019  
 Shona Allen, 2017 *junior specialist at UCSF*  <!-- Spring -->  
-Sophia Jochnowitz, 2017 – present  
-Sarah Hill, 2016 – 2017 *masters program at Univ British Columbia*  
+Sophia Jochnowitz, 2017 – 2019  
+Sarah Hill, 2016 – 2017 *graduate school at Univ British Columbia*  
 Robert Stover, 2016 – 2017 *lab tech at Two Pore Guys*  
 Jacqueline Lamb, 2016 – 2017 *masters program at UC Santa Cruz*  
 Abraham Rodriguez, 2016 – 2017, STEM program  
 Sara Stith, 2016  <!-- Summer -->  
 Luis Aguilar, 2016  <!-- Summer -->  
 Condy Kan, 2016 *research assistant at UCLA*  <!-- Summer -->  
-Tyler Berkness, 2015 – present  
-Ashmitha Rajendran, 2015 – present  <!-- biomedical engineering -->  
+Tyler Berkness, 2015 – 2018 *medical school*  
+Ashmitha Rajendran, 2015 – 2018 *graduate school*  <!-- biomedical engineering -->  
 Dolly Kapoor, 2015 – 2016  
 Sumanth Gollapudi, 2015 – 2016 *graduate school*  <!-- biomedical engineering -->  
 Lana Frankle, 2015 – 2016 *graduate school at Kent State*  
@@ -263,11 +292,17 @@ Anthony Fong, 2015 – 2016 *research assistant at UCSF*  <!-- biomedical engine
 Chelsea Messinger, 2013 – 2013 *MD/PhD program at Harvard Univ*  
 
 ### Graduate thesis committees
+Sadaf Zaki, 2019 - present  
+David Tastad, 2018 - present  
 Anthony Gilmore, 2016 – present  
 James Perna, 2016 – present  
-Michelle Tjia, 2015 – present  
+Michelle Tjia, 2015 – 2019  
 
 ### Graduate candidacy examinations
+Sadaf Zaki, 2019  
+Xiaoyi Guo Liang, 2019  
+Gary Mantalas, 2018  
+Julien Menendez, 2018  
 Kendy Hoang, 2017  
 David Tastad, 2017  
 James Perna, 2016  
@@ -307,8 +342,11 @@ developmental neurobiology, systems neuroscience, comparative neuroananatomy, co
 
 
 ## Service to the field
+Reviewer, eLife, Aug 2019  
+Reviewer, Cell Reports, Jun 2019  
+Reviewer, Journal of Neuroscience, Jul 2018   
 Reviewer, Journal of Neuroscience, Jan 2017  
-Co-Author, [pyWholeBrain](https://github.com/ackmanlab/pyWholeBrain) brain wave imaging software, 2016 – 2017  
+Co-Author, [pyWholeBrain](https://github.com/ackmanlab/pyWholeBrain) mesoscale brain mapping software, 2016 – 2017  
 Reviewer, Journal of Neuroscience, Jul 2016  
 Reviewer, Journal of Neuroscience, May 2016  
 Reviewer, Frontiers in Neural Circuits, Jun 2016  
@@ -319,16 +357,22 @@ Reviewer, Frontiers in Integrative Neuroscience, Dec 2012
 
 
 ## Service to the university
+Member, MCDB Graduate advising committee, 2019 – 2020  
+Co-presenter, PBSci Summer Research Symposium, Aug 2019  
+Co-presenter, MCDB Retreat talk presentation, Sep 2019  
+Member, PBSci High Performance Academic Computing Committee, 2018 - 2019   
+Co-presenter, MCDB Retreat talk presentation, Sep 2018   
+Member, MCDB Faculty recruitment committee, 2017 – 2018  
 Mentor, STEM Diversity Program, 2017 – present  
-Co-presenter, MCD Retreat talk presentation, Sep 2017  
-Co-presenter, MCD Retreat poster presentation, Sep 2017  
+Co-presenter, MCDB Retreat talk presentation, Sep 2017  
+Co-presenter, MCDB Retreat poster presentation, Sep 2017  
 Co-presenter, PBSE Retreat poster presentation, Sep 2017  
 Author, ['lambdaBuildBot'](https://github.com/ackmanlab/lambdaBuildBot) AWS Lambda app build and deploy bot, 2017  
-Author, ['woola'](https://github.com/ackmanlab/woola) markdown to html/pdf content rendering, build, and server app, 2017  
+Author, ['woola'](https://github.com/ackmanlab/woola) markdown to html/pdf content rendering, build, and server app, 2017, 2018  
 Particpant, Neurosociety exhibit, Palo Alto, CA, Feb 2017  
 Member, Graduate admissions committee, 2016 – 2017  
 Mentor, STEM Diversity Program, 2016 – 2017  
-Author, BIOL 125/Introduction to Neuroscience instructional [**web app**](https://ackmanlab.com/local/bio125/neuroanatomy1.html), see [syllabus](https://ackmanlab.com/bio125/syllabus.html), Sep 2016 – Dec 2016  
+Author, BIOL 125/Introduction to Neuroscience instructional [web app](https://biol125.ackmanlab.com/neuroanatomy1.html), see [syllabus](https://biol125.ackmanlab.com), 2016 - 2019     
 Co-presenter, PBSE Retreat poster presentation, Sep 2016  
 Presenter, PBSE Graduate research orientation faculty research overview, Sep 2016  
 Member, Graduate admissions committee, 2015 – 2016  
@@ -342,9 +386,10 @@ Chair, 16th Annual UC Systemwide Bioengineering Symposium, session 'Technology a
 
 
 ## Service to the community
+Volunteer, Westlake Elementary School community garden water tank installation project, 2018  
 Guest speaker, Pacific Collegiate School, 'Lunch with a scientist', Santa Cruz, CA, Apr 2017  
 Volunteer, Beach Cleanup, Santa Cruz, CA 2015 – present  
-Volunteer, Coastal Community Preschool, Santa Cruz, CA 2016 – present  <!-- Contributing author, [markserv](https://github.com/ackmanlab/markserv) markdown content app, 2017   -->  
+Volunteer, Coastal Community Preschool, Santa Cruz, CA 2016 – 2017  <!-- Contributing author, [markserv](https://github.com/ackmanlab/markserv) markdown content app, 2017   -->  
 Contributing author, Wikipedia, 2014, 2016, 2017  
 Mentor, ACCESS academic bridge program, Santa Cruz, CA Jun – Aug 2016  
 Contributing author, [BibDeskToWord](https://github.com/ackman678/bibdesktoword) bibliography integration software, 2014, 2016  <!-- Assistant coach, UC Santa Cruz Men's rugby Oct, Nov 2015, 2016 -->  
@@ -364,12 +409,20 @@ SfN short course, Networks of the Brain with O. Sporns, 2008  <!-- Olaf Sporns -
 ## Professional affiliations
 Society for Neuroscience  
 
-[pubmed]: http://www.ncbi.nlm.nih.gov/pubmed/?term=(ackman+jb%5BAuthor%5D+OR+ackman+j%5BAuthor%5D)+AND+(yale%5BAffiliation%5D+OR+marseille%5BAffiliation%5D+OR+ferrara%5BAffiliation%5D+OR+connecticut%5BAffiliation%5D) "Pubmed – Ackman"
 
+[pubmed]: https://www.ncbi.nlm.nih.gov/pubmed/?term=(ackman+jb%5BAuthor%5D+OR+ackman+j%5BAuthor%5D)+AND+(yale%5BAffiliation%5D+OR+marseille%5BAffiliation%5D+OR+ferrara%5BAffiliation%5D+OR+connecticut%5BAffiliation%5D+OR+santa+cruz%5BAffiliation%5D)
 
+[gscholar]: https://scholar.google.com/citations?user=qtmtHEUAAAAJ&hl
 
+[^Mullen2021]: Mullen BR, Weiser SC, Ascencio D, Ackman JB. Automated classification of signal sources in mesoscale calcium imaging. bioRxiv. (2021). doi:10.1101/2021.02.23.432573
 
+[^Perna2021]: Perna J, Lu J, Mullen B, Liu T, Tjia M, Weiser S, Ackman J, Zuo Y. Perinatal penicillin exposure affects cortical development and sensory processing. Front Mol Neurosci. (2021). 14:704219. doi:10.3389/fnmol.2021.704219 pmid:35002614
 
+[^Weiser2020]: Weiser SC, Mullen BR, Ascencio D, Ackman JB. Data-driven filtration and segmentation of mesoscale neural dynamics. bioRxiv. (2021). doi:10.1101/2020.12.30.424865
+
+[^Gribizis2019]: Gribizis A, Ge X, Daigle TL, Ackman JB, Zeng H, Lee D, Crair MC. Visual cortex gains independence from peripheral drive before eye opening. Neuron. (2019). 104:711–723.e3. doi:10.1016/j.neuron.2019.08.015 pmid:31561919
+
+[^Cuoco:2018]: Cuoco JA, Esposito AW, Moriarty S, Tang Y, Seth S, Toia AR, Kampton EB, Mayr Y, Khan M, Khan MB, Mullen BR, Ackman JB, Siddiqi F, Wolfe JH, Savinova OV, Ramos RL. Malformation of the posterior cerebellar vermis is a common neuroanatomical phenotype of genetically engineered mice on the C57BL/6 background. Cerebellum. (2018). doi:10.1007/s12311-017-0892-3 pmid:29043563
 
 [^Rash:2016]: Rash BG, Ackman JB, and Rakic P. Bidirectional radial Ca(2+) activity regulates neurogenesis and migration during early cortical column formation. *Sci Adv* (2016). 2(2):e1501733. doi:10.1126/sciadv.1501733 PMID:26933693
 
