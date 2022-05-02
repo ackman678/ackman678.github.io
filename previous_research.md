@@ -3,7 +3,7 @@ title: Research Accomplishments
 layout: default
 ---
 
-##University of Connecticut
+## University of Connecticut
 
 My research career began in the laboratory of Joe
 LoTurco at the University of Connecticut where I studied somatotopic map
@@ -127,7 +127,7 @@ with microglia. GFP, green; neuronal MAP-2, red; nuclear DAPI, blue.
 From Ackman et al., 2006.*
 
 
-##INMED, Marseille, France
+## INMED, Marseille, France
 
 Next I pursued a short (1.5 year) postdoc fellowship at the
 Mediterranean Institute of Neurobiology (INMED/INSERM U901) in
@@ -170,7 +170,7 @@ with double cortex syndrome
 [[9](http://www.ncbi.nlm.nih.gov/pubmed/19144832)].
 
 
-##Yale University
+## Yale University
 
 After working at INSERM in Marseille, I pursued a second
 postdoc in the U.S. where I wanted to train more extensively with in
@@ -258,7 +258,7 @@ activity that is likely present for a substantial period of human
 gestation and which sculpts wiring throughout the developing brain.
 
 
-##Bibliography
+## Bibliography
 
 ​1. Ackman, J. B. & LoTurco, J. J. (2000) Barrel formation and
 deformation in the neocortex of the flathead mutant. Soc Neurosci Abstr.
